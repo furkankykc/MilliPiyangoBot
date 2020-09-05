@@ -1,0 +1,9 @@
+
+http://www.millipiyango.gov.tr/sonuclar/cekilisler/sanstopu/20200729.json
+http://www.millipiyango.gov.tr/sonuclar/cekilisler/onnumara/20200730.json
+çekiliş tarihleri
+http://www.millipiyango.gov.tr/sonuclar/listCekilisleriTarihleri.php?tur=onnumara
+http://www.millipiyango.gov.tr/sonuclar/listCekilisleriTarihleri.php?tur=superloto
+http://www.millipiyango.gov.tr/sonuclar/listCekilisleriTarihleri.php?tur=sanstopu
+http://www.mpi.gov.tr/sonuclar/listCekilisleriTarihleri.php?tur=piyango
+https://www.millipiyangoonline.com/sisalsans/drawdetails.millypiyango.3.json

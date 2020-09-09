@@ -1,0 +1,265 @@
+{
+    "number": "14",
+    "dateDetails": "09/01/2020",
+    "timeDetails": "21:30",
+    "winningNumber": [
+        21,
+        47,
+        22,
+        32,
+        50,
+        28
+    ],
+    "numberJolly": [],
+    "superstar": [],
+    "tableResult": [
+        {
+            "numbersMatched": "6",
+            "totalWinners": "0",
+            "prizeWinner": "0",
+            "prizeFound": "2222442450"
+        },
+        {
+            "numbersMatched": "5",
+            "totalWinners": "13",
+            "prizeWinner": "19739900",
+            "prizeFound": "2566187000"
+        },
+        {
+            "numbersMatched": "4",
+            "totalWinners": "739",
+            "prizeWinner": "540150",
+            "prizeFound": "3991708500"
+        },
+        {
+            "numbersMatched": "3",
+            "totalWinners": "16749",
+            "prizeWinner": "28900",
+            "prizeFound": "4840461000"
+        },
+        {
+            "numbersMatched": "2",
+            "totalWinners": "161046",
+            "prizeWinner": "3150",
+            "prizeFound": "5072949000"
+        }
+    ]
+},
+{
+    "number": "14",
+    "dateDetails": "09/02/2020",
+    "timeDetails": "21:30",
+    "winningNumber": [
+        88,
+        21,
+        12,
+        73,
+        27,
+        11
+    ],
+    "numberJolly": [
+        86
+    ],
+    "tableResult": [
+        {
+            "numbersMatched": "6",
+            "totalWinners": "0",
+            "prizeWinner": "0",
+            "prizeFound": "11717148590"
+        },
+        {
+            "numbersMatched": "5+1",
+            "totalWinners": "0",
+            "prizeWinner": "0",
+            "prizeFound": "0"
+        },
+        {
+            "numbersMatched": "5",
+            "totalWinners": "1",
+            "prizeWinner": "362482400",
+            "prizeFound": "3624824000"
+        },
+        {
+            "numbersMatched": "4",
+            "totalWinners": "262",
+            "prizeWinner": "1383500",
+            "prizeFound": "3624770000"
+        },
+        {
+            "numbersMatched": "3",
+            "totalWinners": "9549",
+            "prizeWinner": "94900",
+            "prizeFound": "9062001000"
+        },
+        {
+            "numbersMatched": "2",
+            "totalWinners": "136738",
+            "prizeWinner": "9900",
+            "prizeFound": "13537062000"
+        }
+    ]
+},
+{
+    "number": "3",
+    "dateDetails": "08/30/2020",
+    "timeDetails": "15:30",
+    "firstCategoryName": "6000000TL Kazanan Numara",
+    "firstCategoryWinning": [
+        "402598"
+    ],
+    "secondCategoryName": "100000TL Kazanan Numara",
+    "secondCategoryWinning": [
+        "303892"
+    ],
+    "categories": [
+        {
+            "category": "Amorti",
+            "idCategory": "9",
+            "numberExtract": "1",
+            "totalExtraction": "2",
+            "categoryType": "A",
+            "winningSeries": [
+                "2",
+                "7"
+            ]
+        },
+        {
+            "category": "10000TL Kazanan Numaralar",
+            "idCategory": "3",
+            "numberExtract": "6",
+            "totalExtraction": "20",
+            "categoryType": "D",
+            "winningSeries": [
+                "393765",
+                "163036",
+                "007954",
+                "126847",
+                "616090",
+                "059171",
+                "177968",
+                "698135",
+                "198707",
+                "473447",
+                "174994",
+                "372278",
+                "297653",
+                "460569",
+                "554294",
+                "086145",
+                "686485",
+                "576668",
+                "521056",
+                "458623"
+            ]
+        },
+        {
+            "category": "1000TL Kazanan Numaralar",
+            "idCategory": "4",
+            "numberExtract": "6",
+            "totalExtraction": "50",
+            "categoryType": "D",
+            "winningSeries": [
+                "034519",
+                "672685",
+                "599208",
+                "480316",
+                "077513",
+                "653153",
+                "177048",
+                "300008",
+                "222115",
+                "430149",
+                "169054",
+                "375567",
+                "275225",
+                "107014",
+                "369364",
+                "583568",
+                "635273",
+                "101652",
+                "572925",
+                "139109",
+                "048386",
+                "687663",
+                "215445",
+                "680872",
+                "127486",
+                "267441",
+                "056557",
+                "379655",
+                "076961",
+                "087349",
+                "338455",
+                "158793",
+                "016422",
+                "577836",
+                "423196",
+                "072120",
+                "683826",
+                "565936",
+                "364249",
+                "426661",
+                "028473",
+                "523949",
+                "052205",
+                "288607",
+                "031580",
+                "401629",
+                "656602",
+                "646844",
+                "422676",
+                "604085"
+            ]
+        },
+        {
+            "category": "500TL Kazanan Numaralar",
+            "idCategory": "5",
+            "numberExtract": "5",
+            "totalExtraction": "40",
+            "categoryType": "D",
+            "winningSeries": [
+                "21419",
+                "02580",
+                "18819",
+                "64080",
+                "81191",
+                "91009",
+                "82955",
+                "16558",
+                "06977",
+                "90351",
+                "33386",
+                "29619",
+                "64683",
+                "42664",
+                "41761",
+                "15180",
+                "22949",
+                "02845",
+                "53258",
+                "66285",
+                "48983",
+                "08266",
+                "77472",
+                "15397",
+                "66854",
+                "60547",
+                "10935",
+                "27748",
+                "68110",
+                "10735",
+                "20705",
+                "21129",
+                "60509",
+                "97194",
+                "75401",
+                "50928",
+                "76809",
+                "38965",
+                "77669",
+                "50976"
+            ]
+        }
+    ],
+    "reportURL": "gntn-bs-api/api/info/v1/report/105/3"
+}
